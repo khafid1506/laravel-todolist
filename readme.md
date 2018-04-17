@@ -56,4 +56,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# laravel-todolist
+
+## laravel-todolist
+
+Many thanks for this tuto : https://laravel.com/docs/5.2/quickstart#introduction
