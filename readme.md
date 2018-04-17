@@ -59,17 +59,17 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Laravel-todolist
 
-#Installation
+# Installation
 
-Open your terminal:
+Open your terminal :
 
-$ git clone https://github.com/khafid1506/laravel-todolist.git todolist
+$ git clone https://github.com/khafid1506/laravel-todolist.git mytodolist
 
 $ cd todolist
 
 $ composer install
 
-$ cp .env.example .env
+$ cp .env.example  .env
 
 Update your .env file with your proper data (port, database name, id, password for Phpmyadmin/or Mysql)
 
