@@ -57,6 +57,28 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-## laravel-todolist
+## Laravel-todolist
+
+#Installation
+
+Open your terminal:
+
+$ git clone https://github.com/khafid1506/laravel-todolist.git todolist
+
+$ cd todolist
+
+$ composer install
+
+$ cp .env.example .env
+
+Update your .env file with your proper data (port, database name, id, password for Phpmyadmin/or Mysql)
+
+$ php artisan migrate
+
+$ php artisan serve
+
+And copy http://127.0.0.1:8000/ in the url location of your browser.
+
+Refresh your browser to open the homepage of the task list
 
 Many thanks for this tuto : https://laravel.com/docs/5.2/quickstart#introduction
